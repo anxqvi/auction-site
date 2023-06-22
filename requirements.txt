@@ -1,0 +1,5 @@
+Python==3.9.0
+Django==4.1.2
+djangorestframework==3.14.0
+corsheaders==3.13.0
+pillow==9.3.0
